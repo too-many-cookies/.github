@@ -8,10 +8,10 @@ Our documentation is stored in wikis right here on GitHub.
 
 #### Components
 
+- [API](https://github.com/too-many-cookies/api/wiki)
 - [Database](https://github.com/too-many-cookies/database/wiki)
 - [ETL](https://github.com/too-many-cookies/etl/wiki)
 - [Front-end](https://github.com/too-many-cookies/front-end/wiki)
-- [API](https://github.com/too-many-cookies/api/wiki)
 
 #### Deployment Plan
 
